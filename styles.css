@@ -60,15 +60,17 @@ p {
     margin-left: 200px;
     margin-right: 200px;
 }
+.home_images {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 #cool_bag_man {
     width: 400px;
     margin-left: 100px;
 }
 #cat_bag_mask {
     width: 498px;
-    display: inline;
-    margin-left: auto;
-    margin-right: auto;
 }
 #stylish_bag_man {
     width: 390px;
