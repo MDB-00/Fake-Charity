@@ -61,17 +61,18 @@ p {
     margin-right: 200px;
 }
 .home_images {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    width: 100%;
+    text-align: center;
 }
 #cool_bag_man {
     width: 400px;
-    margin-left: 100px;
+    display: inline-block;
 }
 #cat_bag_mask {
     width: 498px;
+    display: inline-block;
 }
 #stylish_bag_man {
     width: 390px;
+    display: inline-block;
 }
