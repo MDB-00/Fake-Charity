@@ -6,11 +6,11 @@
     z-index: 100;
     font-size: x-large;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    text-align: left;
     height: 100px;
+    text-align: center;
 }
 .header nav {
-    margin-left: 350px;
+    margin-right: 320px;
 }
 .header nav a {
     margin: 0 10px;
@@ -21,8 +21,9 @@
     color: white;
     text-decoration: underline;
 }  
-.header_logo {
+#header_logo {
     width: 200px;
+    margin-left: 150px;
     float: left;
 }
 #home_image {
@@ -30,9 +31,6 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-}
-body {
-    /* background-color: black; */
 }
 .white_text_heading {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -60,7 +58,11 @@ p {
     margin-left: 200px;
     margin-right: 200px;
 }
-.home_images {
+.image_group1 {
+    width: 100%;
+    text-align: center;
+}
+.image_group2 {
     width: 100%;
     text-align: center;
 }
@@ -68,11 +70,26 @@ p {
     width: 400px;
     display: inline-block;
 }
-#cat_bag_mask {
-    width: 498px;
+#family_bag_mask {
+    width: 392px;
     display: inline-block;
 }
 #stylish_bag_man {
     width: 390px;
+    display: inline-block;
+}
+#bag_face_couple {
+    width: 400px;
+    height: 580px;
+    display: inline-block;
+}
+#cat_bag_mask {
+    width: 410px;
+    height: 580px;
+    display: inline-block;
+}
+#bag_mask_party {
+    width: 370px;
+    height: 580px;
     display: inline-block;
 }
