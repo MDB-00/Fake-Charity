@@ -117,3 +117,10 @@
 #oldie_bag_mask {
     width: 700px;
 }
+.external_links a {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+}
+.external_links a:hover {
+    color: white;
+}
